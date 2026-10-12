@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 32403794+GuillaumeBraillon@users.noreply.github.com
+	name = Guillaume Braillon
